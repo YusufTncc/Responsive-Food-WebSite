@@ -576,13 +576,16 @@ footer .f-input {
     .f-menu{
         display: none;
     }
+    footer .f-input input {
+        width: 20rem;
+    }
     .dpcard{
         height: 70rem;
     }
     .home-content{
         margin-top: 15rem;
         padding-bottom: 10rem;
-        width: 70%;
+        width: 90%;
         height: 100%;
     }
     .about-us-righttext {
